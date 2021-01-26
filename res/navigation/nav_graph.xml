@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.example.weather.FavoritesFragment"
+        android:label="@string/home">
+        <action
+            android:id="@+id/action_home_to_cityWeatherFragment"
+            app:destination="@id/cityWeatherFragment" >
+            <argument
+                android:name="cityModel"
+                app:argType="com.example.weather.model.CityModel"/>
+        </action>
+    </fragment>
+    <fragment
+        android:id="@+id/all"
+        android:name="com.example.weather.CityListFragment"
+        android:label="@string/all" />
+    <fragment
+        android:id="@+id/cityWeatherFragment"
+        android:name="com.example.weather.CityWeatherFragment"
+        android:label="" >
+        <argument
+            android:name="cityModel"
+            app:argType="com.example.weather.model.CityModel"/>
+    </fragment>
+
+
+</navigation>

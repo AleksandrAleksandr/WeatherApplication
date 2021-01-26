@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="home">Home</string>
+    <string name="all">All</string>
+</resources>
