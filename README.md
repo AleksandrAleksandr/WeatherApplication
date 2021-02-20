@@ -2,7 +2,7 @@
 ## Приложение для прогноза погоды
 #### Использованные технологии
 
-- Retrofit
++ Retrofit
 + паттерн Repository
 + Android Architecture Components
   + ViewModel
@@ -12,5 +12,5 @@
   + Navigation
   + Hilt (Dependency Injection)
 
-![Альтернативный текст](screenshots/1.jpg) ![Альтернативный текст](screenshots/2.jpg) 
+![Альтернативный текст](screenshots/1.jpg)    ![Альтернативный текст](screenshots/2.jpg) 
 ![Альтернативный текст](screenshots/3.jpg) 
