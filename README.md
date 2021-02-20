@@ -14,8 +14,8 @@
   + Navigation
   + Hilt (Dependency Injection)
 
-![Альтернативный текст](screenshots/1.jpg) &nbsp;&nbsp;  ![Альтернативный текст](screenshots/2.jpg) &nbsp;&nbsp;
+![Альтернативный текст](screenshots/1.jpg) &nbsp;&nbsp;  ![Альтернативный текст](screenshots/2.jpg) <br />
 ![Альтернативный текст](screenshots/3.jpg) &nbsp;&nbsp;  ![Альтернативный текст](screenshots/4.jpg) &nbsp;&nbsp;
-![Альтернативный текст](screenshots/5.jpg) &nbsp;&nbsp;  ![Альтернативный текст](screenshots/6.jpg) 
+![Альтернативный текст](screenshots/5.jpg) <br />  ![Альтернативный текст](screenshots/6.jpg) 
 
  
